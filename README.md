@@ -1,13 +1,13 @@
 * In this homework assignment I consolidated some commands to make the style.css more organized as well as efficient. For the HTML there were certain elements,classes, and attributes to fit the need of requirements.
     
     # Link to the website:
-
+    [Deployed-Wenbite]()
     
     # Link to my repository:
-    ![My Repository](https://swagmaster678.github.io/Homework1-Horiseon-Clean-Up/)
+    [My Repository](https://swagmaster678.github.io/Homework1-Horiseon-Clean-Up/)
 
     # Screenshot of the working web page:
-    ![Horeison-Website](SC:\Users\brice\Desktop\homework\SEOAssignment-\images\homework_SEOAssignment-_index.html.png)
+    ![Horeison-Website](images/homework_SEOAssignment-_index.html.png)
 
  
 -Examples for the style.css:
