@@ -1,16 +1,16 @@
 * In this homework assignment I consolidated some commands to make the style.css more organized as well as efficient. For the HTML there were certain elements,classes, and attributes to fit the need of requirements.
     
-    link to the website:
+    Link to the website:
 
-    link to my github: https://github.com/swagmaster678/Homework1-Horiseon-Clean-Up
+    Link to my repository: ![github-website](https://github.com/swagmaster678/Homework1-Horiseon-Clean-Up)
 
  
-Examples for the style.css:
+-Examples for the style.css:
 * Eliminated duplicate class elements to organize css file.
 * Organized the css file to follow the structure of the html file.
 * Comments in style.css for specific examples of change.
 
-Examples for the index.html:
+-Examples for the index.html:
 * Changed website title from "title" to "Horeison".
 * Changed the <head> to <header> to follow requirements of semantic element.
 * Added <article> tags to better organize paragraphs.
@@ -18,3 +18,8 @@ Examples for the index.html:
 * Added "search-engine-optimization" id to the <div> tag so the link on webpage works.
 * Changed the class names within the HTML to condense down the style.css file.
 * Comments in the HTML file for specific examples of change.
+
+Screenshot of the working web page:
+
+![horiseon-website](C:\Users\brice\Downloads\_C__Users_brice_Desktop_homework_SEOAssignment-_index.html.png)
+
