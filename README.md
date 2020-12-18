@@ -1,6 +1,7 @@
 * In this homework assignment I consolidated some commands to make the style.css more organized as well as efficient. For the HTML there were certain elements,classes, and attributes to fit the need of requirements.
     
     link to the website:
+
     link to my github:
 
  
@@ -13,7 +14,7 @@ Examples for the index.html:
 * Changed website title from "title" to "Horeison".
 * Changed the <head> to <header> to follow requirements of semantic element.
 * Added <article> tags to better organize paragraphs.
-* Added alt= to all of the lines that had <img src>
+* Added alt= to all of the lines that had img src,
 * Added "search-engine-optimization" id to the <div> tag so the link on webpage works.
 * Changed the class names within the HTML to condense down the style.css file.
 * Comments in the HTML file for specific examples of change.
