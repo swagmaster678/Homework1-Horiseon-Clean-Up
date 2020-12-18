@@ -4,10 +4,10 @@
 
     
     # Link to my repository:
-    ![My Repository](https://github.com/swagmaster678/Homework1-Horiseon-Clean-Up)
+    ![My Repository](https://swagmaster678.github.io/Homework1-Horiseon-Clean-Up/)
 
     # Screenshot of the working web page:
-    ![Horeison-Website](C:\Users\brice\Downloads\homework_SEOAssignment-_index.html.png)
+    ![Horeison-Website](SC:\Users\brice\Desktop\homework\SEOAssignment-\images\homework_SEOAssignment-_index.html.png)
 
  
 -Examples for the style.css:
