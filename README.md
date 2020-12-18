@@ -18,8 +18,11 @@
 * Added "search-engine-optimization" id to the <div> tag so the link on webpage works.
 * Changed the class names within the HTML to condense down the style.css file.
 * Comments in the HTML file for specific examples of change.
+<<<<<<< HEAD
 
 Screenshot of the working web page:
 
 ![horiseon-website](C:\Users\brice\Downloads\_C__Users_brice_Desktop_homework_SEOAssignment-_index.html.png)
 
+=======
+>>>>>>> 4b4f6d4af959a4220f4aff95c8b7d7a6a97e2af8
