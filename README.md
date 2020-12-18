@@ -1,7 +1,7 @@
-* In this homework assignment I consolidated some commands to make the style.css more organized as well as efficient. For the HTML there were certain elements,classes, and attributes to fit the need of requirements.
+* In this homework assignment I consolidated some commands to make the style.css more organized as well as efficient. For the HTML there were certain elements,classes, and attributes to fit the need of the requirements.
     
     # Link to the website:
-    [Deployed-Wenbite](https://swagmaster678.github.io/Homework1-Horiseon-Clean-Up/)
+    [Deployed-Website](https://swagmaster678.github.io/Homework1-Horiseon-Clean-Up/)
     
     # Link to my repository:
     [My Repository](https://github.com/swagmaster678/Homework1-Horiseon-Clean-Up)
