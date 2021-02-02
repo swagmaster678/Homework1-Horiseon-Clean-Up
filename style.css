@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*  took out benefit-lead, benefit-breand, and benefit-cost. added ,benefits-change to condense*/
+/*  took out benefit-lead, benefit-breand, and benefit-cost. added .benefits-change to condense*/
 .benefits-change  {
     margin-bottom: 32px;
     color: #ffffff;

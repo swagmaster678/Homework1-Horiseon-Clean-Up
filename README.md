@@ -17,10 +17,10 @@
 
 -Examples for the index.html:
 * Changed website title from "title" to "Horeison".
-* Changed the <head> to <header> to follow requirements of semantic element.
-* Added <article> tags to better organize paragraphs.
-* Added alt= to all lines of code that had img src.
-* Added "search-engine-optimization" id to the <div> tag so the link on webpage works.
+* Changed the head to header to follow requirements of semantic element.
+* Added article tags to better organize paragraphs.
+* Added alt= to all lines of code that had img src=. 
+* Added "search-engine-optimization" div id so the link to it on the webpage works.
 * Changed the class names within the HTML to condense down the style.css file.
 * Comments in the HTML file for specific examples of change.
 
